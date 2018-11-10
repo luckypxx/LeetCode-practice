@@ -9,7 +9,7 @@ public class Solution4 {
             if (nums[0] == val) {
                 return 0;
             } else {
-                return 1;
+                return 1; 
             }
         }
         int end = nums.length - 1;
